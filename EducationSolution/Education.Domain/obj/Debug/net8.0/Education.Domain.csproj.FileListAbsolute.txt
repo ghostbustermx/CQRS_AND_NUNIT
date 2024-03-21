@@ -1,0 +1,12 @@
+D:\Usuarios\german\Documentos\GitHub\CQRS_AND_NUNIT\EducationSolution\Education.Domain\bin\Debug\net8.0\Education.Domain.deps.json
+D:\Usuarios\german\Documentos\GitHub\CQRS_AND_NUNIT\EducationSolution\Education.Domain\bin\Debug\net8.0\Education.Domain.dll
+D:\Usuarios\german\Documentos\GitHub\CQRS_AND_NUNIT\EducationSolution\Education.Domain\bin\Debug\net8.0\Education.Domain.pdb
+D:\Usuarios\german\Documentos\GitHub\CQRS_AND_NUNIT\EducationSolution\Education.Domain\obj\Debug\net8.0\Education.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\german\Documentos\GitHub\CQRS_AND_NUNIT\EducationSolution\Education.Domain\obj\Debug\net8.0\Education.Domain.AssemblyInfoInputs.cache
+D:\Usuarios\german\Documentos\GitHub\CQRS_AND_NUNIT\EducationSolution\Education.Domain\obj\Debug\net8.0\Education.Domain.AssemblyInfo.cs
+D:\Usuarios\german\Documentos\GitHub\CQRS_AND_NUNIT\EducationSolution\Education.Domain\obj\Debug\net8.0\Education.Domain.csproj.CoreCompileInputs.cache
+D:\Usuarios\german\Documentos\GitHub\CQRS_AND_NUNIT\EducationSolution\Education.Domain\obj\Debug\net8.0\Education.Domain.sourcelink.json
+D:\Usuarios\german\Documentos\GitHub\CQRS_AND_NUNIT\EducationSolution\Education.Domain\obj\Debug\net8.0\Education.Domain.dll
+D:\Usuarios\german\Documentos\GitHub\CQRS_AND_NUNIT\EducationSolution\Education.Domain\obj\Debug\net8.0\refint\Education.Domain.dll
+D:\Usuarios\german\Documentos\GitHub\CQRS_AND_NUNIT\EducationSolution\Education.Domain\obj\Debug\net8.0\Education.Domain.pdb
+D:\Usuarios\german\Documentos\GitHub\CQRS_AND_NUNIT\EducationSolution\Education.Domain\obj\Debug\net8.0\ref\Education.Domain.dll
